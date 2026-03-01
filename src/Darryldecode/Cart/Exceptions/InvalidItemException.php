@@ -1,4 +1,6 @@
-<?php namespace Darryldecode\Cart\Exceptions;
+<?php
+
+namespace Darryldecode\Cart\Exceptions;
 
 /**
  * Created by PhpStorm.
@@ -6,7 +8,4 @@
  * Date: 1/12/2015
  * Time: 9:40 PM
  */
-
-class InvalidItemException extends \Exception {
-
-}
+class InvalidItemException extends \Exception {}

@@ -1,4 +1,6 @@
-<?php namespace Darryldecode\Cart\Validators;
+<?php
+
+namespace Darryldecode\Cart\Validators;
 
 /**
  * Created by PhpStorm.
@@ -6,7 +8,4 @@
  * Date: 1/16/2015
  * Time: 11:03 AM
  */
-
-class CartConditionValidator extends Validator {
-
-}
+class CartConditionValidator extends Validator {}
