@@ -1,6 +1,5 @@
 {
     "name": "darryldecode/cart",
-    "version": "1.2.0",
     "description": "Laravel Shopping cart",
     "keywords": ["laravel", "shopping cart", "cart"],
     "license": "MIT",
